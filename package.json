@@ -1,0 +1,13 @@
+{
+  "name": "volume-prediction",
+  "version": "1.0.0",
+  "description": "Volume analysis market for price movement detection",
+  "main": "volume-analyzer.js",
+  "scripts": {
+    "start": "node volume-demo.js",
+    "test": "node volume-demo.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
